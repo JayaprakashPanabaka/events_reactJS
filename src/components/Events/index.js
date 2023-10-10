@@ -60,7 +60,7 @@ const Events = () => {
   const [activeId, setActiveId] = useState('')
 
   const handleActiveEventId = id => {
-    setActiveId({activeId: id})
+    setActiveId(id)
     // console.log(activeId)
   }
 
