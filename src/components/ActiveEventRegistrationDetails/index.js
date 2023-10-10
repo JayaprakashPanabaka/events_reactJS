@@ -3,7 +3,7 @@ import './index.css'
 
 const registrationStatus = {
   yetToRegister: 'YET_TO_REGISTER',
-  registered: 'REGISTER',
+  registered: 'REGISTERED',
   registrationsClosed: 'REGISTRATIONS_CLOSED',
 }
 

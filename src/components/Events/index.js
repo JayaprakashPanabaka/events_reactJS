@@ -91,7 +91,7 @@ const Events = () => {
           </ul>
         </div>
         <ActiveEventRegistrationDetails
-          activeRegistrationStatus={handleActiveRegistrationStatus}
+          activeEventRegistrationStatus={handleActiveRegistrationStatus()}
         />
       </div>
     </>

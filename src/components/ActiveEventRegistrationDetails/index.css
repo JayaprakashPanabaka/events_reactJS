@@ -6,6 +6,7 @@
   background-color: #ffffff;
   width: 40%;
   height: 100vh;
+  padding: 2rem 1rem;
 }
 
 .view-container {
@@ -17,7 +18,8 @@
 
 .yet-to-register-image {
   width: 90%;
-  max-width: 461px;
+  max-width: 250px;
+  /* margin-top: 3rem; */
 }
 
 .register-description {
@@ -66,7 +68,7 @@
 
 .registrations-closed-image {
   width: 80%;
-  max-width: 393px;
+  max-width: 300px;
 }
 
 .registrations-closed-heading {
